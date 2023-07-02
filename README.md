@@ -1,6 +1,6 @@
-# MiniProjects
-This repository consists of projects I have taken  up during my college time
-
+# Real time Gaming using body gestures
+Access the main.exe file to immediately run the file on your system
+If you want to see the source code go ahead with main.py
 main.exe:
 
   This file is the exe file of the Real Time gaming Using Machine Learning Project.
